@@ -1,2 +1,2 @@
 # School_homePage
-HTML and CSS project for study purposes
+HTML and CSS project
